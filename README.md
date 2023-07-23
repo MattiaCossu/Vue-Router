@@ -1,19 +1,19 @@
-# single-page-vue
+# single-page-vue-router
+## What is it?
 
-## Project setup
-```
+This is a project that demonstrates how to use the Vue Router to create a
+single-page app.
+
+## How do I use it?
+
+To use this project, you will need to install Node.js and Vue.js.
+
+Then, clone this project and install the dependencies using
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Once the dependencies are installed, you can run the app using
 
-### Compiles and minifies for production
-```
-npm run build
-```
+npm run dev
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The app will be served at http://localhost:8080.
